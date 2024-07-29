@@ -13,7 +13,16 @@ ssh-keygen
 cat ~/.ssh/id_ed25519.pub
 ```
 
-3. Clone Repository
+3.Configure git with your github username
+```
+git config --global user.name "Sujitkumar Naidu"
+```
+ 
+```
+git config --global user.email "sujitkumarnaidu@gmail.com"
+```
+
+4. Clone Repository
 
 ```
 git clone git@github.com:SUJIT-AN/git.git
