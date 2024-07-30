@@ -1,1 +1,2 @@
 Practising branch protection
+Bypass settings are disabled now.
